@@ -7,12 +7,12 @@ It demonstrates data cleaning, validation, and exploratory data analysis (EDA).
 ## Repository Structure
 - `data/raw/` → Original dataset (`ng_messy_sales.csv`)
 - `data/cleaned/` → Cleaned dataset (`ng_sales_cleaned.csv`)
-- `notebooks/` → Jupyter Notebook for analysis
+- `notebooks/` → Jupyter Notebook for analysis(`sales_analysis.ipynb`)
 - `README.md` → Project documentation
 - `requirements.txt` → Python dependencies
 
 ## Steps
-1. Clean messy raw data (remove nulls, convert data types).
+1. Clean messy raw data (remove nulls, convert data types)etc.
 2. Validate totals (`Calculated Sale` vs `Total Sale`).
 3. Perform analysis:
    - State performance
