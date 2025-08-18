@@ -1,26 +1,42 @@
-# NG_Sales_Performance_Portfolio
+# NG Sales Performance Portfolio
+
+
+
 
 ## Project Overview
-This project analyzes Nigerian sales data to identify trends by state, channel, and time.  
-It demonstrates data cleaning, validation, and exploratory data analysis (EDA).
+This project analyzes Nigerian sales data to uncover insights into **product performance**, **regional trends**, and **sales channels**.  
+
+Data was:
+- Cleaned using **Python (pandas)**  
+- Analyzed in **Jupyter Notebook**  
+- Visualized with **Power BI**  
+---
 
 ## Repository Structure
-- `data/raw/` → Original dataset (`ng_messy_sales.csv`)
-- `data/cleaned/` → Cleaned dataset (`ng_sales_cleaned.csv`)
-- `notebooks/` → Jupyter Notebook for analysis(`sales_analysis.ipynb`)
+
+- `data/raw/` → Original dataset  [Raw Data](data/raw/)
+- `data/cleaned/` → Cleaned dataset [Cleaned Data](data/cleaned/ng_messy_sales_cleaned.csv)
+- `notebooks/` → Jupiter Notebook [Notebook](notebooks/sales_analysis.ipynb)
+- `report/` → Power BI [Power BI Report](reports/ng_sales_analysis.pbix)
+- `visuals/`  → Images [Visuals](visuals/)
 - `README.md` → Project documentation
 - `requirements.txt` → Python dependencies
 
-## Steps
-1. Clean messy raw data (remove nulls, convert data types)etc.
-2. Validate totals (`Calculated Sale` vs `Total Sale`).
-3. Perform analysis:
+---
+
+## Steps Taken
+   - Clean messy raw data (remove nulls, convert data types)etc.
    - State performance
    - Channel performance
    - Time-based sales
-4. Export cleaned dataset.
+   - Product performance  
+   -Exported cleaned dataset for visualization. 
 
-## Results
-- Highlight top-performing states.
-- Identify most effective sales channels.
-- Reveal seasonality and sales trends.
+---
+
+## Results & Insights
+- **Top states**: Delta, Abuja, Osun, and Kano are the top performing states.
+- **Sales channels**: Retail and online channels have the highest bulk sales, while wholesale is carries for Tablets and Cameras.  
+- **Seasonality**: High-value transactions (Phones/Tablets) drive sales spikes in mid-2024 and early 2025.  
+- **Products**: Phones dominate followed by Tablets and Monitors.  
+
