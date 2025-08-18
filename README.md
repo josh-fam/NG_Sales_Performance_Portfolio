@@ -36,7 +36,7 @@ Data was:
 
 ## Results & Insights
 - **Top states**: Delta, Abuja, Osun, and Kano are the top performing states.
-- **Sales channels**: Retail and online channels have the highest bulk sales, while wholesale is carries for Tablets and Cameras.  
-- **Seasonality**: High-value transactions (Phones/Tablets) drive sales spikes in mid-2024 and early 2025.  
+- **Sales channels**: Retail and online channels have the highest bulk sales, while wholesale carries for Tablets and Cameras.  
+- **Seasonality**: Transactions from Phones and Tablets drive sales in mid 2024 and early 2025.  
 - **Products**: Phones dominate followed by Tablets and Monitors.  
 
