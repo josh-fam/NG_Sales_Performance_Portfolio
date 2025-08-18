@@ -15,9 +15,9 @@ Data was:
 ## Repository Structure
 
 - `data/raw/` → Original dataset  [Raw Data](data/raw/)
-- `data/cleaned/` → Cleaned dataset [Cleaned Data](data/cleaned/ng_messy_sales_cleaned.csv)
+- `data/cleaned/` → Cleaned dataset [Cleaned Data](data/processed/ng_messy_sales_cleaned.csv)
 - `notebooks/` → Jupiter Notebook [Notebook](notebooks/sales_analysis.ipynb)
-- `report/` → Power BI [Power BI Report](reports/ng_sales_analysis.pbix)
+- `report/` → Power BI [Power BI Report](reports/sales_analysis.pbix)
 - `visuals/`  → Images [Visuals](visuals/)
 - `README.md` → Project documentation
 - `requirements.txt` → Python dependencies
