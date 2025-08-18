@@ -30,7 +30,7 @@ Data was:
    - Channel performance
    - Time-based sales
    - Product performance  
-   -Exported cleaned dataset for visualization. 
+   - Exported cleaned dataset for visualization. 
 
 ---
 
