@@ -20,7 +20,6 @@ Data was:
 - `report/` → Power BI [Power BI Report](Reports/)
 - `visuals/`  → Images [Visuals](Visuals/)
 - `README.md` → Project documentation
-- `requirements.txt` → Python dependencies
 
 ---
 
